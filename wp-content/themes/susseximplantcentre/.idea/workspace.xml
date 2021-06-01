@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3139e2d-7e68-487f-ac6c-a558e6a7f019" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/.idea/almost friday.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/single-events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/single.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/base/_animation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/config/_global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/config/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/config/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/config/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/layout/about/_info.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/layout/about/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/layout/about/about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/layout/contact/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/layout/contact/contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/layout/home/_scenes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/layout/home/_work.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/layout/offline/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/layout/offline/offline.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/layout/online/_events.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/layout/online/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/layout/online/online.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/layout/single/event/_about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/layout/single/event/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/src/scss/layout/single/event/event.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/template-parts/slider.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/templates/tp-about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/templates/tp-contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/templates/tp-offline.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../almost-friday/wp-content/themes/almost-friday/templates/tp-online.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../emsys/wp-content/themes/emsys-rent/css/_smain.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../emsys/wp-content/themes/emsys-rent/css/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../emsys/wp-content/themes/emsys-rent/header-special.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../emsys/wp-content/themes/emsys-rent/page-templates/battery-testing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/inc/functions/functions-ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/inc/functions/functions-default.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/inc/functions/functions-enqueue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/inc/functions/functions-post_type.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/inc/functions/functions-svg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/single-post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/single-projects.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/js/sliders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/_config.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/404/404.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/about/_about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/about/_association.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/about/_experience.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/about/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/about/_other.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/about/_partners.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/about/_projects.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/about/_services.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/about/_team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/about/about-us.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/contact/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/contact/contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/home/_about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/home/_advantages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/home/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/home/_experience.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/home/_info.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/home/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/home/_map.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/home/_news.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/home/_projects.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/home/_services.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/home/_team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/home/home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/news/_news.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/news/news-page.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/projects/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/projects/_projects.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/projects/project.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/single/post.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/src/scss/blocks/success/success.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/templates/tp-about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/templates/tp-contact.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/templates/tp-home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/templates/tp-news.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/templates/tp-projects.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/templates/tp-thank-you.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../h2u/wp-content/themes/hydrogen/webpack.mix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/header-main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/single-services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/single-team.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/fonts/Roboto/Roboto-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/fonts/Roboto/Roboto-BlackItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/fonts/Roboto/Roboto-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/fonts/Roboto/Roboto-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/fonts/Roboto/Roboto-Italic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/fonts/Roboto/Roboto-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/fonts/Roboto/Roboto-LightItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/fonts/Roboto/Roboto-Medium.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/fonts/Roboto/Roboto-MediumItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/fonts/Roboto/Roboto-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/fonts/Roboto/Roboto-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/fonts/Roboto/Roboto-ThinItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/js/lazysizes.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/js/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/about/_gallery.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/about/_info.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/about/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/about/about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/contacts/_info.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/contacts/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/contacts/contacts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/educations/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/educations/educations.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/home/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/home/home.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/privacy-policy/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/privacy-policy/privacy-policy.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/reviews.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/salon/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/salon/_services.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/salon/_team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/salon/salon.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/shop/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/shop/shop.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/single/_brows.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/single/_hair.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/single/_lashes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/single/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/single/_man.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/single/_nails.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/single/_team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/team/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/team/_team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/src/scss/layout/team/our-team.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/template-parts/main-services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/template-parts/other-service.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/templates/tp-about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/templates/tp-contacts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/templates/tp-educations.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/templates/tp-privacy-policy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/templates/tp-salon.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/templates/tp-service-brows.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/templates/tp-service-hair.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/templates/tp-service-lashes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/templates/tp-service-man.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/templates/tp-service-nails.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/templates/tp-shop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/templates/tp-team.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../krasa/wp-content/themes/krasa/wpm-config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../millenniumsleeplab/wp-content/themes/millenniumsleeplab/assets/src/scss/template-parts/_testimonials.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../millenniumsleeplab/wp-content/themes/millenniumsleeplab/template-part/testimonials.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/functions/functions-ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/functions/functions-default.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/functions/functions-enqueue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/functions/functions-svg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Black.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-BlackIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-BlackIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-BlackIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-BoldIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-BoldIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-BoldIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Extrabld.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Extrabld.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Extrabld.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-ExtrabldIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-ExtrabldIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-ExtrabldIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-LightIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-LightIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-LightIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-RegularIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-RegularIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-RegularIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Semibold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Semibold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-Semibold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-SemiboldIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-SemiboldIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-SemiboldIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-ThinIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-ThinIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNova-ThinIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Black.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-BlackIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-BlackIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-BlackIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-BoldIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-BoldIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-BoldIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Extrabld.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Extrabld.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Extrabld.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-ExtrabldIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-ExtrabldIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-ExtrabldIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-LightIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-LightIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-LightIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-RegularIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-RegularIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-RegularIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Semibold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Semibold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Semibold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-SemiboldIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-SemiboldIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-SemiboldIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-ThinIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-ThinIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaCond-ThinIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Black.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Black.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Black.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-BlackIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-BlackIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-BlackIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Bold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Bold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Bold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-BoldIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-BoldIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-BoldIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Extrabld.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Extrabld.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Extrabld.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-ExtrabldIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-ExtrabldIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-ExtrabldIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Light.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Light.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Light.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-LightIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-LightIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-LightIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Regular.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Regular.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-RegularIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-RegularIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-RegularIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Semibold.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Semibold.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Semibold.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-SemiboldIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-SemiboldIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-SemiboldIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-ThinIt.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-ThinIt.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaExCn-ThinIt.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaT-Thin.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaT-Thin.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/ProximaNovaT-Thin.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/demo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/fonts/ProximaNova/stylesheet.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/sliders.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/_config.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_before.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_doctor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_faq.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_info.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/_services.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/tp-home.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/tp-landing-one.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.mix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../thekrasa/wp-content/themes/thekrasa/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../thekrasa/wp-content/themes/thekrasa/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../thekrasa/wp-content/themes/thekrasa/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../thekrasa/wp-content/themes/thekrasa/inc/acf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../thekrasa/wp-content/themes/thekrasa/inc/functions-ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../thekrasa/wp-content/themes/thekrasa/inc/functions-default.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../thekrasa/wp-content/themes/thekrasa/inc/functions-enqueue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../thekrasa/wp-content/themes/thekrasa/inc/post_types.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../thekrasa/wp-content/themes/thekrasa/inc/svg.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../thekrasa/wp-content/themes/thekrasa/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../thekrasa/wp-content/themes/thekrasa/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../thekrasa/wp-content/themes/thekrasa/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../thekrasa/wp-content/themes/thekrasa/webpack.mix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/assets/css/_animation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/assets/css/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/assets/css/app.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/assets/images/main-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/components/common/ColorSwitcher.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/components/common/GoogleMaps.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/components/common/IconSvg.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/components/common/LanguageSwitcher.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/components/common/Logo.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/components/common/VideoPlayer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/components/layouts/Articles.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/components/layouts/Business.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/components/layouts/Footer.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/components/layouts/Header.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/en/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/en/business.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/en/contacts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/en/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/en/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/en/index-page-head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/en/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/en/portfolio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/en/team.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/en/technologies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/i18n-nuxt-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ru/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ru/business.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ru/contacts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ru/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ru/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ru/index-page-head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ru/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ru/portfolio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ru/team.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ru/technologies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ua/about.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ua/business.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ua/contacts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ua/footer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ua/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ua/index-page-head.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ua/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ua/portfolio.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ua/team.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/locales/ua/technologies.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/pages/about.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/pages/asd.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/pages/blog/_slug.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/pages/blog/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/pages/contact-us.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/pages/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/pages/projects.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/pages/team.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/plugins/axios.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/plugins/maps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/plugins/marquee.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/plugins/slider.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/static/favicon/android-chrome-192x192.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/static/favicon/android-chrome-512x512.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/static/favicon/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/static/favicon/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/static/favicon/favicon-16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/static/favicon/favicon-32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/static/favicon/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/static/favicon/mstile-150x150.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/static/favicon/safari-pinned-tab.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/static/favicon/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/static/fonts/DaysOne/DaysOne-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/static/fonts/EuropeExtendedC/EuropeExtendedC-BoldItalic.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/static/fonts/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/static/svg/icons.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../webcap/static/video.mp4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1syTwdoVH5foqbdoxqpntXolh8T" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/scss/blocks/home" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/scss/blocks" />
+      <recent name="$PROJECT_DIR$/templates" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/scss/blocks/home" />
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/src/fonts" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3139e2d-7e68-487f-ac6c-a558e6a7f019" name="Default Changelist" comment="" />
+      <created>1621844068393</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1621844068393</updated>
+      <workItem from="1621844069667" duration="2985000" />
+      <workItem from="1621856422799" duration="38294000" />
+      <workItem from="1622010094816" duration="25993000" />
+      <workItem from="1622097313233" duration="8897000" />
+      <workItem from="1622444575025" duration="19179000" />
+      <workItem from="1622532005611" duration="19426000" />
+      <workItem from="1622569969382" duration="237000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom" timestamp="1621848090598">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/622.-1080.1920.1080/-1298.-1080.1920.1080@0.0.1440.900" timestamp="1621848090598" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center" timestamp="1621848090596">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/622.-1080.1920.1080/-1298.-1080.1920.1080@0.0.1440.900" timestamp="1621848090596" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left" timestamp="1621848090595">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/622.-1080.1920.1080/-1298.-1080.1920.1080@0.0.1440.900" timestamp="1621848090595" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right" timestamp="1621848090597">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/622.-1080.1920.1080/-1298.-1080.1920.1080@0.0.1440.900" timestamp="1621848090597" />
+    <state x="369" y="68" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1622101979308">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="369" y="68" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1440.900/622.-1080.1920.1080/-1298.-1080.1920.1080@0.0.1440.900" timestamp="1622101979308" />
+    <state x="843" y="81" width="597" height="548" key="find.popup" timestamp="1622039182777">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="843" y="81" width="597" height="548" key="find.popup/0.0.1440.900/622.-1055.1920.1055/-1298.-1055.1920.1055@0.0.1440.900" timestamp="1622033178932" />
+    <state x="843" y="81" width="597" height="548" key="find.popup/0.0.1440.900/622.-1080.1920.1080/-1298.-1080.1920.1080@0.0.1440.900" timestamp="1622039182777" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1621867212802">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900/622.-1080.1920.1080/-1298.-1080.1920.1080@0.0.1440.900" timestamp="1621867212802" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1622465608889">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/622.-1080.1920.1080/-1298.-1080.1920.1080@0.0.1440.900" timestamp="1622465608889" />
+  </component>
+</project>

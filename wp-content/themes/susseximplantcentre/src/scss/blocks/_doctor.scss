@@ -1,0 +1,98 @@
+.doctor-info {
+  padding: 1rem 0;
+  
+  @include media(xl) {
+	padding: 5rem 0;
+  }
+  
+  .wrapper {
+	@include media(lg) {
+	  display: flex;
+	  flex-wrap: wrap;
+	}
+ 
+	@include media(xl) {
+	  padding: 0 2rem;
+	}
+	
+	.image {
+	  max-width: 510px;
+	  margin: 0 auto;
+	  width: 100%;
+	  position: relative;
+	  min-height: 400px;
+	  
+	  @include media(sm) {
+		min-height: 515px;
+	  }
+	  
+	  @include media(xl) {
+		&:after,
+		&:before {
+		  content: '';
+		  position: absolute;
+		  width: 70%;
+		  height: 70%;
+		  border: 1px solid #C9C7C7;
+		  z-index: -1;
+		}
+		
+		&:after {
+		  top: -2rem;
+		  left: -2rem;
+		}
+	 
+		&:before {
+		  bottom: -1.5rem;
+		  right: -1.5rem;
+		}
+	  }
+	}
+	
+	.text {
+	  padding: 1rem 0;
+	  
+	  @include media(lg) {
+		width: calc( 100% - 510px );
+		padding-left: 1.5rem;
+	  }
+	  
+	  @include media(xl) {
+		padding-left: 4rem;
+	  }
+	  
+	  h4 {
+		font-size: 1.625rem;
+		font-weight: 900;
+		margin: 1rem 0;
+		padding-bottom: 1rem;
+		position: relative;
+		
+		&:after {
+		  content: '';
+		  width: 46px;
+		  height: 3px;
+		  background: #D8D8D8;
+		  position: absolute;
+		  bottom: 0;
+		  left: 0;
+		}
+	  }
+	  
+	  p {
+		font-size: 1.125rem;
+		margin: 0.5rem 0;
+		line-height: 2;
+		color: rgba(28, 26, 26, 0.5);
+		
+		@include media(xl) {
+		  margin: 1rem 0;
+		}
+	  }
+	  
+	  .direction {
+		font-weight: 700;
+	  }
+	}
+  }
+}

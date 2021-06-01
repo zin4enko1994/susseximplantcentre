@@ -1,0 +1,93 @@
+.about {
+  .item {
+	@include media(md) {
+	  display: flex;
+	  flex-wrap: wrap;
+	  width: 100%;
+	  
+	  &:first-child {
+		flex-direction: row-reverse;
+	  }
+	}
+	
+	.image {
+	  width: 100%;
+	  min-height: 350px;
+	  position: relative;
+	  
+	  @include media(md) {
+		width: 50%;
+	  }
+	  
+	  @include media(xl) {
+		min-height: 700px;
+	  }
+	}
+	
+	.text {
+	  padding: 1rem;
+	  @include media(md) {
+		width: 50%;
+	  }
+	  
+	  @include media(xl) {
+		width: 600px;
+		padding: 5rem;
+	  }
+	  
+	  h2 {
+		margin: 1rem 0;
+		font-size: 1.5rem;
+		padding-bottom: 1rem;
+		position: relative;
+	 
+		@include media(sm) {
+		  font-size: 1.625rem;
+		}
+	 
+		@include media(md) {
+		  font-size: 1.75rem;
+		}
+	 
+		@include media(lg) {
+		  font-size: 1.875rem;
+		}
+	 
+		@include media(xl) {
+		  font-size: 2rem;
+		}
+		
+		&:after {
+		  content: '';
+		  width: 44px;
+		  height: 3px;
+		  background: #D8D8D8;
+		  position: absolute;
+		  left: 0;
+		  bottom: 0;
+		}
+		
+		span {
+		  color: $secondary;
+		  
+		  &.underline {
+			color: $primary;
+			text-decoration: underline;
+		  }
+		}
+	  }
+	  
+	  p {
+		margin: 1rem 0;
+	  }
+	  
+	  .button {
+		margin: 1rem 0;
+		
+		@include media(xl) {
+		  margin: 2rem 0;
+		}
+	  }
+	}
+  }
+}

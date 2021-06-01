@@ -1,0 +1,183 @@
+header {
+  position: fixed;
+  z-index: 100;
+  width: 100%;
+  height: 100px;
+  border-bottom: 1px solid rgba(255,255,255, 0.4);
+  display: flex;
+  align-items: center;
+  background: linear-gradient(236.6deg, rgba(255, 255, 255, 0.0001) -3.27%, rgba(0, 0, 0, 0.368575) 60.5%), linear-gradient(304.14deg, rgba(11, 62, 78, 0.5) 7.27%, rgba(38, 158, 227, 0.5) 89.8%), rgba(26, 25, 25, 0.576427);
+  
+  &:before {
+	//content: '';
+	width: 100%;
+	height: 100%;
+	position: absolute;
+	filter: blur(4px);
+	background: linear-gradient(236.6deg, rgba(255, 255, 255, 0.0001) -3.27%, rgba(0, 0, 0, 0.368575) 60.5%), linear-gradient(304.14deg, rgba(11, 62, 78, 0.5) 7.27%, rgba(38, 158, 227, 0.5) 89.8%), rgba(26, 25, 25, 0.576427);
+	top: 0;
+	left: 0;
+  }
+  
+  .wrapper {
+	@include flex(row, center, space-between);
+	
+	.logo {
+	  width: 60px;
+	  height: 60px;
+	  position: relative;
+	  display: block;
+	}
+	
+	.navigation {
+	  display: none;
+	  
+	  @include media(lg) {
+		display: flex;
+		width: calc( 100% - 60px );
+	  }
+	  
+	  &.open {
+		position: fixed;
+		height: 100vh;
+		width: 100vw;
+		z-index: 5;
+		top: 0;
+		left: 0;
+		background: $primary;
+		
+		@include flex(column, center, center);
+	  }
+	  
+	  .menu {
+		@include flex(column, center, center);
+		
+		@include media(lg) {
+		  flex-direction: row;
+		  justify-content: space-evenly;
+		  width: calc( 100% - 250px );
+		  height: 100px;
+		}
+		
+		li {
+		  margin: 1rem 0;
+		  position: relative;
+		  
+		  @include flex(row, center, center);
+		  
+		  &.active {
+			@include media(lg) {
+			  border-bottom: 3px solid $secondary;
+			  height: 100px;
+			}
+		 
+			a {
+			  color: $secondary;
+			}
+		  }
+		  
+		  a {
+			color: #ffffff;
+			font-weight: 800;
+		  }
+		}
+	  }
+	  
+	  .call {
+		margin: 1rem 0;
+		@include flex(row, center, center);
+		
+		@include media(lg) {
+		  width: 250px;
+		  position: relative;
+		  
+		  &:before {
+			content: '';
+			position: absolute;
+			background: rgba(255,255,255, 0.4);
+			height: 100px;
+			left: 0;
+			width: 1px;
+		  }
+		}
+		
+		.number {
+		  display: flex;
+		  flex-direction: column;
+		  padding-left: 1rem;
+		  
+		  span {
+			font-size: 1.25rem;
+			font-weight: bold;
+			color: #ffffff;
+		  }
+		  
+		  a {
+			font-size: 0.875rem;
+			color: #ffffff;
+			text-decoration: underline;
+			margin-top: 0.5rem;
+		  }
+		}
+	  }
+	}
+	
+	.burger {
+	  z-index: 15;
+	  
+	  .liner {
+		width: 100%;
+		display: flex;
+		height: 100px;
+		position: relative;
+		
+		.ham {
+		  cursor: pointer;
+		  -webkit-tap-highlight-color: transparent;
+		  transition: transform 400ms;
+		  -moz-user-select: none;
+		  -webkit-user-select: none;
+		  -ms-user-select: none;
+		  user-select: none;
+		  
+		  .line {
+			fill:none;
+			transition: stroke-dasharray 400ms, stroke-dashoffset 400ms;
+			stroke: $secondary;
+			stroke-width:5.5;
+			stroke-linecap:round;
+			
+			&.top {
+			  stroke-dasharray: 40 139;
+			}
+			
+			&.bottom {
+			  stroke-dasharray: 40 180;
+			}
+		  }
+		  
+		  &.active {
+			transform: rotate(45deg);
+			
+			.line {
+			  stroke: $secondary;
+			}
+			
+			.top {
+			  stroke-dashoffset: -98px;
+			}
+			
+			.bottom {
+			  stroke-dashoffset: -138px;
+			}
+		  }
+		}
+	  }
+	  
+	  @include media(lg) {
+		display: none;
+		
+	  }
+	}
+  }
+}

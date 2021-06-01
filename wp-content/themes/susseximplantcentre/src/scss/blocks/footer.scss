@@ -1,0 +1,103 @@
+footer {
+  background: $primary;
+  
+  .wrapper {
+	max-width: 1200px;
+	margin: 0 auto;
+	width: 100%;
+	
+	@include media(md) {
+	  display: flex;
+	}
+	
+	.logo {
+	  height: 170px;
+	  width: 160px;
+	  background: #1f353f;
+	  @include flex(row, center, center);
+	  
+	  a {
+		width: 120px;
+		height: 120px;
+		position: relative;
+	  }
+	}
+	.contact-info {
+	  padding: 1rem;
+	  
+	  @include media(md) {
+		width: calc( 100% - 160px );
+		@include flex(row, flex-start, flex-start);
+	  }
+	  
+	  ul {
+		@include media(lg) {
+		  min-width: 300px;
+		}
+		
+		&.information {
+		  
+		  li {
+			padding-left: 1.5rem;
+		  }
+		  
+		  @include media(lg) {
+			flex-wrap: wrap;
+			display: flex;
+			
+			h4 {
+			  width: 100%;
+			}
+			
+			li {
+			  width: 50%;
+			}
+		  }
+		}
+		
+		h4 {
+		  color: #ffffff;
+		  font-size: 1.125rem;
+		  margin: 1rem 0;
+		}
+		
+		li {
+		  color: $light;
+		  margin: 0.5rem 0;
+		  position: relative;
+		  
+		  @include media(xl) {
+			margin: 0;
+		  }
+		  
+		  span {
+			color: #ffffff;
+		  }
+		  
+		  a {
+			color: $light;
+		  }
+		  
+		  svg {
+			position: absolute;
+			left: 0;
+			top: 50%;
+			transform: translateY(-50%);
+		  }
+		}
+	  }
+	}
+  }
+  
+  .copyright {
+	  padding: 0.8125rem 0;
+	  background: #1f353f;
+	  color: $light;
+	  text-align: center;
+	  
+	  a {
+		color: $light;
+		text-decoration: underline;
+	  }
+	}
+}
